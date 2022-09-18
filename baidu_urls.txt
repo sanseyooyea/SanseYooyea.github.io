@@ -1,0 +1,5 @@
+https://blog.microhand.work/2022/09/16/CLion%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8Amsys64%E7%BC%96%E8%AF%91%E5%99%A8%E7%9A%84%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/
+https://blog.microhand.work/2022/04/18/Java%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B/
+https://blog.microhand.work/2022/03/28/Java%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/
+https://blog.microhand.work/2022/03/14/Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/
+https://blog.microhand.work/2022/03/07/Java-Scanner-%E7%B1%BB%E8%AF%A6%E8%A7%A3/
